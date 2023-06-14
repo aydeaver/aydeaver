@@ -1,7 +1,22 @@
 ### Hi there 👋
 
+## 🔭 I’m currently working on 
+
+Reorganizing everything.
+
+## 🌱 I’m currently (re)learning 
+
+vim!
+
+## 📫 How to reach me:
+
+[![Email](https://img.shields.io/badge/Email-f1f1f1?style=for-the-badge&logo=gmail&logoColor=0f111a)](mailto:anthony.deaver@skillsoft.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthonydeaver/)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=aydeaver&theme=github_dark)
+
 <!--
-**aydeaver/aydeaver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**anthonydeaver/anthonydeaver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
